@@ -1,0 +1,631 @@
+company_name,category,group,rating,num_ratings
+HealthTrust Workforce Solutions,Race / Ethnicity,★ Asian,2.5,17
+HealthTrust Workforce Solutions,Race / Ethnicity,★ Black or African American,3.4,36
+HealthTrust Workforce Solutions,Race / Ethnicity,★ Hispanic or Latinx,3.1,24
+HealthTrust Workforce Solutions,Race / Ethnicity,★ White,3.3,54
+HealthTrust Workforce Solutions,Gender,★ Men,3.1,38
+HealthTrust Workforce Solutions,Gender,★ Women,3.4,77
+HealthTrust Workforce Solutions,Sexual orientation,★ Heterosexual,3.2,112
+HealthTrust Workforce Solutions,Sexual orientation,★ LGBTQ+,3.0,7
+HealthTrust Workforce Solutions,Disability,★ People without disabilities,3.3,123
+HealthTrust Workforce Solutions,Disability,★ People with disabilities,3.1,6
+HealthTrust Workforce Solutions,Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 3.3 ★ Caregivers 5 ratings 2.8 ★ Not a Parent or Caregiver 69 ratings 3.8 ★ Parents/Guardians,,39
+HealthTrust Workforce Solutions,Parent or family caregiver,★ Caregivers,3.3,5
+HealthTrust Workforce Solutions,Parent or family caregiver,★ Not a Parent or Caregiver,2.8,69
+HealthTrust Workforce Solutions,Parent or family caregiver,★ Parents/Guardians,3.8,39
+HealthTrust Workforce Solutions,Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 3.2 ★ Non-Veterans 122 ratings 2.6 ★ Veterans,,8
+HealthTrust Workforce Solutions,Veteran status,★ Non-Veterans,3.2,122
+HealthTrust Workforce Solutions,Veteran status,★ Veterans,2.6,8
+Intermountain Health,Race / Ethnicity,★ Asian,3.7,71
+Intermountain Health,Race / Ethnicity,★ Black or African American,3.0,36
+Intermountain Health,Race / Ethnicity,★ Hispanic or Latinx,3.2,114
+Intermountain Health,Race / Ethnicity,★ Indigenous American or Alaska Native,4.2,16
+Intermountain Health,Gender,★ Men,3.3,342
+Intermountain Health,Gender,★ Transgender and/or Non-Binary,2.8,13
+Intermountain Health,Gender,★ Women,3.6,563
+Intermountain Health,Sexual orientation,★ Heterosexual,3.6,715
+Intermountain Health,Sexual orientation,★ LGBTQ+,3.1,103
+Intermountain Health,Disability,★ People without disabilities,3.5,748
+Intermountain Health,Disability,★ People with disabilities,3.0,94
+Intermountain Health,Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 2.5 ★ Caregivers 16 ratings 3.4 ★ Not a Parent or Caregiver 447 ratings 3.5 ★ Parents/Guardians,,365
+Intermountain Health,Parent or family caregiver,★ Caregivers,2.5,16
+Intermountain Health,Parent or family caregiver,★ Not a Parent or Caregiver,3.4,447
+Intermountain Health,Parent or family caregiver,★ Parents/Guardians,3.5,365
+Intermountain Health,Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 3.4 ★ Non-Veterans 836 ratings 3.5 ★ Veterans,,42
+Intermountain Health,Veteran status,★ Non-Veterans,3.4,836
+Intermountain Health,Veteran status,★ Veterans,3.5,42
+West Covina Unified School District,Race / Ethnicity,★ Hispanic or Latinx,3.5,6
+West Covina Unified School District,Race / Ethnicity,Asian,,0
+West Covina Unified School District,Race / Ethnicity,Black or African American,,0
+West Covina Unified School District,Race / Ethnicity,Indigenous American or Alaska Native,,0
+West Covina Unified School District,Sexual orientation,★ Heterosexual,4.4,5
+West Covina Unified School District,Sexual orientation,LGBTQ+,,0
+West Covina Unified School District,Disability,★ People without disabilities,4.4,5
+West Covina Unified School District,Disability,People with disabilities,,0
+West Covina Unified School District,Parent or family caregiver,★ Not a Parent or Caregiver,3.5,6
+West Covina Unified School District,Veteran status,Scroll to left Race / Ethnicity Sexual orientation Disability Parent or family caregiver Veteran status 4.4 ★ Non-Veterans 5 ratings - ★ Veterans,,0
+West Covina Unified School District,Veteran status,★ Non-Veterans,4.4,5
+Zeta Charter Schools,Race / Ethnicity,★ Asian,3.8,9
+Zeta Charter Schools,Race / Ethnicity,★ Black or African American,3.5,26
+Zeta Charter Schools,Race / Ethnicity,★ Hispanic or Latinx,3.7,23
+Zeta Charter Schools,Race / Ethnicity,★ White,3.4,21
+Zeta Charter Schools,Gender,★ Men,4.1,13
+Zeta Charter Schools,Gender,★ Transgender and/or Non-Binary,4.8,5
+Zeta Charter Schools,Gender,★ Women,3.4,53
+Zeta Charter Schools,Sexual orientation,★ Heterosexual,3.8,42
+Zeta Charter Schools,Sexual orientation,★ LGBTQ+,3.4,19
+Zeta Charter Schools,Disability,★ People without disabilities,3.8,56
+Zeta Charter Schools,Disability,★ People with disabilities,1.3,7
+Zeta Charter Schools,Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 3.9 ★ Not a Parent or Caregiver 46 ratings 4.1 ★ Parents/Guardians 11 ratings - ★ Caregivers,,0
+Zeta Charter Schools,Parent or family caregiver,★ Not a Parent or Caregiver,3.9,46
+Zeta Charter Schools,Parent or family caregiver,★ Parents/Guardians,4.1,11
+Zeta Charter Schools,Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 3.7 ★ Non-Veterans 63 ratings - ★ Veterans,,0
+Zeta Charter Schools,Veteran status,★ Non-Veterans,3.7,63
+Uncommon Schools,Race / Ethnicity,★ Asian,2.5,24
+Uncommon Schools,Race / Ethnicity,★ Black or African American,2.8,98
+Uncommon Schools,Race / Ethnicity,★ Hispanic or Latinx,2.6,48
+Uncommon Schools,Race / Ethnicity,★ White,2.3,76
+Uncommon Schools,Gender,★ Men,3.1,61
+Uncommon Schools,Gender,★ Transgender and/or Non-Binary,1.6,10
+Uncommon Schools,Sexual orientation,★ LGBTQ+,1.9,45
+Uncommon Schools,Disability,★ People with disabilities,2.0,19
+Uncommon Schools,Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 3.9 ★ Caregivers 5 ratings 2.6 ★ Not a Parent or Caregiver 149 ratings 2.6 ★ Parents/Guardians,,41
+Uncommon Schools,Parent or family caregiver,★ Caregivers,3.9,5
+Uncommon Schools,Parent or family caregiver,★ Parents/Guardians,2.6,41
+Uncommon Schools,Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 2.6 ★ Non-Veterans 208 ratings - ★ Veterans,,0
+Uncommon Schools,Gender,★ Women,2.5,5
+Uncommon Schools,Gender,Men,,0
+Uncommon Schools,Sexual orientation,★ Heterosexual,2.8,5
+Uncommon Schools,Sexual orientation,LGBTQ+,,0
+Uncommon Schools,Disability,★ People without disabilities,3.0,5
+Uncommon Schools,Disability,People with disabilities,,0
+Uncommon Schools,Parent or family caregiver,★ Not a Parent or Caregiver,3.0,5
+Uncommon Schools,Veteran status,Scroll to left Gender Sexual orientation Disability Parent or family caregiver Veteran status 3.0 ★ Non-Veterans 5 ratings - ★ Veterans,,0
+Uncommon Schools,Veteran status,★ Non-Veterans,3.0,5
+Learn It Systems,Gender,★ Women,3.8,11
+Learn It Systems,Gender,Men,,0
+Learn It Systems,Sexual orientation,★ Heterosexual,3.9,9
+Learn It Systems,Sexual orientation,LGBTQ+,,0
+Learn It Systems,Disability,★ People without disabilities,4.0,10
+Learn It Systems,Disability,People with disabilities,,0
+Learn It Systems,Parent or family caregiver,★ Not a Parent or Caregiver,3.9,6
+Learn It Systems,Veteran status,Scroll to left Gender Sexual orientation Disability Parent or family caregiver Veteran status 4.0 ★ Non-Veterans 10 ratings - ★ Veterans,,0
+Learn It Systems,Veteran status,★ Non-Veterans,4.0,10
+Rose Management Group,Gender,★ Women,2.2,5
+Rose Management Group,Gender,Men,,0
+Rose Management Group,Disability,★ People without disabilities,2.2,5
+Rose Management Group,Disability,People with disabilities,,0
+Rose Management Group,Veteran status,★ Non-Veterans,2.2,5
+Chicago Public Schools,Race / Ethnicity,★ Asian,3.5,36
+Chicago Public Schools,Race / Ethnicity,★ Black or African American,3.4,187
+Chicago Public Schools,Race / Ethnicity,★ Hispanic or Latinx,3.7,103
+Chicago Public Schools,Race / Ethnicity,★ Indigenous American or Alaska Native,3.0,11
+Chicago Public Schools,Gender,★ Men,3.6,177
+Chicago Public Schools,Gender,★ Transgender and/or Non-Binary,3.1,19
+Chicago Public Schools,Gender,★ Women,3.4,388
+Chicago Public Schools,Sexual orientation,★ Heterosexual,3.6,420
+Chicago Public Schools,Sexual orientation,★ LGBTQ+,3.1,94
+Chicago Public Schools,Disability,★ People without disabilities,3.4,476
+Chicago Public Schools,Disability,★ People with disabilities,3.4,53
+Chicago Public Schools,Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 3.2 ★ Caregivers 28 ratings 3.4 ★ Not a Parent or Caregiver 348 ratings 3.6 ★ Parents/Guardians,,149
+Chicago Public Schools,Parent or family caregiver,★ Caregivers,3.2,28
+Chicago Public Schools,Parent or family caregiver,★ Not a Parent or Caregiver,3.4,348
+Chicago Public Schools,Parent or family caregiver,★ Parents/Guardians,3.6,149
+Chicago Public Schools,Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 3.4 ★ Non-Veterans 543 ratings 2.7 ★ Veterans,,10
+Chicago Public Schools,Veteran status,★ Non-Veterans,3.4,543
+Chicago Public Schools,Veteran status,★ Veterans,2.7,10
+Fairfax County Public Schools,Race / Ethnicity,★ Asian,4.5,48
+Fairfax County Public Schools,Race / Ethnicity,★ Black or African American,4.1,41
+Fairfax County Public Schools,Race / Ethnicity,★ Hispanic or Latinx,4.2,34
+Fairfax County Public Schools,Race / Ethnicity,★ Middle Eastern,4.1,7
+Fairfax County Public Schools,Gender,★ Men,4.2,80
+Fairfax County Public Schools,Gender,★ Transgender and/or Non-Binary,3.2,6
+Fairfax County Public Schools,Gender,★ Women,3.7,227
+Fairfax County Public Schools,Sexual orientation,★ Heterosexual,4.1,257
+Fairfax County Public Schools,Sexual orientation,★ LGBTQ+,3.8,38
+Fairfax County Public Schools,Disability,★ People without disabilities,4.1,270
+Fairfax County Public Schools,Disability,★ People with disabilities,3.3,28
+Fairfax County Public Schools,Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 4.1 ★ Caregivers 10 ratings 4.2 ★ Not a Parent or Caregiver 180 ratings 3.8 ★ Parents/Guardians,,103
+Fairfax County Public Schools,Parent or family caregiver,★ Caregivers,4.1,10
+Fairfax County Public Schools,Parent or family caregiver,★ Not a Parent or Caregiver,4.2,180
+Fairfax County Public Schools,Parent or family caregiver,★ Parents/Guardians,3.8,103
+Fairfax County Public Schools,Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 4.0 ★ Non-Veterans 298 ratings 4.0 ★ Veterans,,8
+Fairfax County Public Schools,Veteran status,★ Non-Veterans,4.0,298
+Fairfax County Public Schools,Veteran status,★ Veterans,4.0,8
+Tenet Healthcare,Race / Ethnicity,★ Asian,3.7,34
+Tenet Healthcare,Race / Ethnicity,★ Black or African American,2.9,39
+Tenet Healthcare,Race / Ethnicity,★ Hispanic or Latinx,2.2,90
+Tenet Healthcare,Race / Ethnicity,★ Indigenous American or Alaska Native,3.0,8
+Tenet Healthcare,Gender,★ Men,2.8,101
+Tenet Healthcare,Gender,★ Transgender and/or Non-Binary,2.7,5
+Tenet Healthcare,Gender,★ Women,2.9,245
+Tenet Healthcare,Sexual orientation,★ Heterosexual,2.9,301
+Tenet Healthcare,Sexual orientation,★ LGBTQ+,2.3,21
+Tenet Healthcare,Disability,★ People without disabilities,2.8,318
+Tenet Healthcare,Disability,★ People with disabilities,3.4,21
+Tenet Healthcare,Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 1.5 ★ Caregivers 16 ratings 2.8 ★ Not a Parent or Caregiver 184 ratings 2.9 ★ Parents/Guardians,,128
+Tenet Healthcare,Parent or family caregiver,★ Caregivers,1.5,16
+Tenet Healthcare,Parent or family caregiver,★ Not a Parent or Caregiver,2.8,184
+Tenet Healthcare,Parent or family caregiver,★ Parents/Guardians,2.9,128
+Tenet Healthcare,Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 2.8 ★ Non-Veterans 328 ratings 2.7 ★ Veterans,,22
+Tenet Healthcare,Veteran status,★ Non-Veterans,2.8,328
+Tenet Healthcare,Veteran status,★ Veterans,2.7,22
+STA,Race / Ethnicity,Black or African American,,0
+STA,Race / Ethnicity,Hispanic or Latinx,,0
+STA,Disability,★ People with disabilities,3.8,8
+STA,Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 2.6 ★ Not a Parent or Caregiver 20 ratings 3.4 ★ Parents/Guardians 11 ratings - ★ Caregivers,,0
+STA,Parent or family caregiver,★ Parents/Guardians,3.4,11
+STA,Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 3.0 ★ Non-Veterans 31 ratings - ★ Veterans,,0
+First Student,Race / Ethnicity,★ Asian,4.1,48
+First Student,Race / Ethnicity,★ Black or African American,3.3,64
+First Student,Race / Ethnicity,★ Hispanic or Latinx,3.6,35
+First Student,Race / Ethnicity,★ Indigenous American or Alaska Native,3.7,17
+First Student,Gender,★ Men,3.6,170
+First Student,Gender,★ Transgender and/or Non-Binary,2.1,12
+First Student,Gender,★ Women,3.3,187
+First Student,Sexual orientation,★ Heterosexual,3.5,285
+First Student,Sexual orientation,★ LGBTQ+,3.0,36
+First Student,Disability,★ People without disabilities,3.5,310
+First Student,Disability,★ People with disabilities,3.3,30
+First Student,Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 3.9 ★ Caregivers 13 ratings 3.4 ★ Not a Parent or Caregiver 205 ratings 3.4 ★ Parents/Guardians,,122
+First Student,Parent or family caregiver,★ Caregivers,3.9,13
+First Student,Parent or family caregiver,★ Not a Parent or Caregiver,3.4,205
+First Student,Parent or family caregiver,★ Parents/Guardians,3.4,122
+First Student,Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 3.3 ★ Non-Veterans 289 ratings 4.0 ★ Veterans,,22
+First Student,Veteran status,★ Non-Veterans,3.3,289
+First Student,Veteran status,★ Veterans,4.0,22
+STA,Race / Ethnicity,★ Black or African American,2.1,5
+STA,Race / Ethnicity,★ Hispanic or Latinx,3.2,6
+STA,Race / Ethnicity,★ White,4.8,6
+STA,Race / Ethnicity,Asian,,0
+STA,Gender,★ Men,3.5,14
+STA,Gender,★ Women,1.6,8
+STA,Sexual orientation,★ Heterosexual,2.6,19
+STA,Sexual orientation,LGBTQ+,,0
+STA,Disability,★ People without disabilities,2.0,21
+STA,Disability,People with disabilities,,0
+STA,Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 2.6 ★ Not a Parent or Caregiver 17 ratings - ★ Caregivers No ratings - ★ Parents/Guardians,,0
+STA,Parent or family caregiver,★ Not a Parent or Caregiver,2.6,17
+STA,Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 2.4 ★ Non-Veterans 21 ratings - ★ Veterans,,0
+STA,Veteran status,★ Non-Veterans,2.4,21
+Summit School Services,Race / Ethnicity,★ Black or African American,2.7,6
+Summit School Services,Race / Ethnicity,★ White,3.5,14
+Summit School Services,Race / Ethnicity,Asian,,0
+Summit School Services,Race / Ethnicity,Hispanic or Latinx,,0
+Summit School Services,Gender,★ Men,3.7,18
+Summit School Services,Gender,★ Women,2.8,15
+Summit School Services,Sexual orientation,★ Heterosexual,3.2,34
+Summit School Services,Sexual orientation,LGBTQ+,,0
+Summit School Services,Disability,★ People without disabilities,3.3,33
+Summit School Services,Disability,People with disabilities,,0
+Summit School Services,Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 3.2 ★ Not a Parent or Caregiver 20 ratings 3.5 ★ Parents/Guardians 8 ratings - ★ Caregivers,,0
+Summit School Services,Parent or family caregiver,★ Not a Parent or Caregiver,3.2,20
+Summit School Services,Parent or family caregiver,★ Parents/Guardians,3.5,8
+Summit School Services,Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 3.0 ★ Non-Veterans 21 ratings - ★ Veterans,,0
+Summit School Services,Veteran status,★ Non-Veterans,3.0,21
+Washington Metropolitan Area Transit Authority,Race / Ethnicity,★ Asian,5.0,19
+Washington Metropolitan Area Transit Authority,Race / Ethnicity,★ Black or African American,3.8,62
+Washington Metropolitan Area Transit Authority,Race / Ethnicity,★ Hispanic or Latinx,3.8,5
+Washington Metropolitan Area Transit Authority,Race / Ethnicity,★ White,4.2,24
+Washington Metropolitan Area Transit Authority,Gender,★ Men,4.2,61
+Washington Metropolitan Area Transit Authority,Gender,★ Women,4.3,40
+Washington Metropolitan Area Transit Authority,Sexual orientation,★ Heterosexual,4.2,84
+Washington Metropolitan Area Transit Authority,Sexual orientation,★ LGBTQ+,3.0,7
+Washington Metropolitan Area Transit Authority,Disability,★ People without disabilities,4.1,88
+Washington Metropolitan Area Transit Authority,Disability,★ People with disabilities,4.3,5
+Washington Metropolitan Area Transit Authority,Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 4.5 ★ Not a Parent or Caregiver 66 ratings 3.8 ★ Parents/Guardians 30 ratings - ★ Caregivers,,0
+Washington Metropolitan Area Transit Authority,Parent or family caregiver,★ Not a Parent or Caregiver,4.5,66
+Washington Metropolitan Area Transit Authority,Parent or family caregiver,★ Parents/Guardians,3.8,30
+Washington Metropolitan Area Transit Authority,Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 4.0 ★ Non-Veterans 98 ratings 4.9 ★ Veterans,,6
+Washington Metropolitan Area Transit Authority,Veteran status,★ Non-Veterans,4.0,98
+Washington Metropolitan Area Transit Authority,Veteran status,★ Veterans,4.9,6
+Keolis,Race / Ethnicity,★ Asian,3.2,7
+Keolis,Race / Ethnicity,★ Black or African American,3.2,13
+Keolis,Race / Ethnicity,★ White,2.7,36
+Keolis,Race / Ethnicity,Hispanic or Latinx,,0
+Keolis,Gender,★ Men,3.2,31
+Keolis,Gender,★ Women,2.4,20
+Keolis,Sexual orientation,★ Heterosexual,2.6,50
+Keolis,Sexual orientation,★ LGBTQ+,3.3,5
+Keolis,Disability,★ People without disabilities,2.5,52
+Keolis,Disability,People with disabilities,,0
+Keolis,Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 2.6 ★ Not a Parent or Caregiver 34 ratings 2.4 ★ Parents/Guardians 21 ratings - ★ Caregivers,,0
+Keolis,Parent or family caregiver,★ Not a Parent or Caregiver,2.6,34
+Keolis,Parent or family caregiver,★ Parents/Guardians,2.4,21
+Keolis,Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 2.6 ★ Non-Veterans 44 ratings - ★ Veterans,,0
+Keolis,Veteran status,★ Non-Veterans,2.6,44
+Washoe County Schools,Race / Ethnicity,★ Hispanic or Latinx,3.2,9
+Washoe County Schools,Race / Ethnicity,★ White,3.2,28
+Washoe County Schools,Race / Ethnicity,Asian,,0
+Washoe County Schools,Race / Ethnicity,Black or African American,,0
+Washoe County Schools,Gender,★ Men,3.2,12
+Washoe County Schools,Gender,★ Women,3.1,29
+Washoe County Schools,Sexual orientation,★ Heterosexual,3.0,29
+Washoe County Schools,Sexual orientation,LGBTQ+,,0
+Washoe County Schools,Disability,★ People without disabilities,3.2,28
+Washoe County Schools,Disability,★ People with disabilities,2.5,9
+Washoe County Schools,Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 3.4 ★ Not a Parent or Caregiver 21 ratings 3.0 ★ Parents/Guardians 18 ratings - ★ Caregivers,,0
+Washoe County Schools,Parent or family caregiver,★ Not a Parent or Caregiver,3.4,21
+Washoe County Schools,Parent or family caregiver,★ Parents/Guardians,3.0,18
+Washoe County Schools,Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 3.0 ★ Non-Veterans 39 ratings - ★ Veterans,,0
+Washoe County Schools,Veteran status,★ Non-Veterans,3.0,39
+Tahoe Transportation District,Race / Ethnicity,★ White,3.2,28
+Tahoe Transportation District,Race / Ethnicity,Asian,,0
+Tahoe Transportation District,Race / Ethnicity,Black or African American,,0
+Tahoe Transportation District,Sexual orientation,LGBTQ+,,0
+Tahoe Transportation District,Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 3.4 ★ Not a Parent or Caregiver 21 ratings 3.0 ★ Parents/Guardians 18 ratings - ★ Caregivers,,0
+Tahoe Transportation District,Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 3.0 ★ Non-Veterans 39 ratings - ★ Veterans,,0
+Tahoe Transportation District,Race / Ethnicity,★ Asian,4.1,48
+Tahoe Transportation District,Race / Ethnicity,★ Black or African American,3.3,64
+Tahoe Transportation District,Race / Ethnicity,★ Hispanic or Latinx,3.6,35
+Tahoe Transportation District,Race / Ethnicity,★ Indigenous American or Alaska Native,3.7,17
+Tahoe Transportation District,Gender,★ Men,3.6,170
+Tahoe Transportation District,Gender,★ Transgender and/or Non-Binary,2.1,12
+Tahoe Transportation District,Gender,★ Women,3.3,187
+Tahoe Transportation District,Sexual orientation,★ Heterosexual,3.5,285
+Tahoe Transportation District,Sexual orientation,★ LGBTQ+,3.0,36
+Tahoe Transportation District,Disability,★ People without disabilities,3.5,310
+Tahoe Transportation District,Disability,★ People with disabilities,3.3,30
+Tahoe Transportation District,Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 3.9 ★ Caregivers 13 ratings 3.4 ★ Not a Parent or Caregiver 205 ratings 3.4 ★ Parents/Guardians,,122
+Tahoe Transportation District,Parent or family caregiver,★ Caregivers,3.9,13
+Tahoe Transportation District,Parent or family caregiver,★ Not a Parent or Caregiver,3.4,205
+Tahoe Transportation District,Parent or family caregiver,★ Parents/Guardians,3.4,122
+Tahoe Transportation District,Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 3.3 ★ Non-Veterans 289 ratings 4.0 ★ Veterans,,22
+Tahoe Transportation District,Veteran status,★ Non-Veterans,3.3,289
+Tahoe Transportation District,Veteran status,★ Veterans,4.0,22
+Northwell Health,Race / Ethnicity,★ Indigenous American or Alaska Native,4.3,16
+Northwell Health,Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 3.7 ★ Caregivers 31 ratings 3.8 ★ Not a Parent or Caregiver 538 ratings 3.8 ★ Parents/Guardians,,295
+Northwell Health,Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 3.7 ★ Non-Veterans 915 ratings 4.1 ★ Veterans,,36
+Northwell Health,Race / Ethnicity,★ Asian,3.2,30
+Northwell Health,Race / Ethnicity,★ Black or African American,4.0,58
+Northwell Health,Race / Ethnicity,★ Hispanic or Latinx,4.0,68
+Northwell Health,Race / Ethnicity,★ White,3.8,157
+Northwell Health,Gender,★ Men,4.0,74
+Northwell Health,Gender,★ Transgender and/or Non-Binary,3.7,7
+Northwell Health,Gender,★ Women,3.8,234
+Northwell Health,Sexual orientation,★ Heterosexual,4.0,263
+Northwell Health,Sexual orientation,★ LGBTQ+,4.1,27
+Northwell Health,Disability,★ People without disabilities,3.9,270
+Northwell Health,Disability,★ People with disabilities,4.3,20
+Northwell Health,Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 4.1 ★ Caregivers 14 ratings 3.8 ★ Not a Parent or Caregiver 174 ratings 3.9 ★ Parents/Guardians,,95
+Northwell Health,Parent or family caregiver,★ Caregivers,4.1,14
+Northwell Health,Parent or family caregiver,★ Not a Parent or Caregiver,3.8,174
+Northwell Health,Parent or family caregiver,★ Parents/Guardians,3.9,95
+Northwell Health,Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 3.9 ★ Non-Veterans 296 ratings 4.5 ★ Veterans,,12
+Northwell Health,Veteran status,★ Non-Veterans,3.9,296
+Northwell Health,Veteran status,★ Veterans,4.5,12
+OhioHealth,Race / Ethnicity,★ Asian,4.3,27
+OhioHealth,Race / Ethnicity,★ Black or African American,4.1,51
+OhioHealth,Race / Ethnicity,★ Hispanic or Latinx,3.9,12
+OhioHealth,Race / Ethnicity,★ Indigenous American or Alaska Native,3.5,5
+OhioHealth,Gender,★ Men,4.0,77
+OhioHealth,Gender,★ Women,3.9,283
+OhioHealth,Sexual orientation,★ Heterosexual,4.0,281
+OhioHealth,Sexual orientation,★ LGBTQ+,3.4,41
+OhioHealth,Disability,★ People without disabilities,4.0,304
+OhioHealth,Disability,★ People with disabilities,3.3,34
+OhioHealth,Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 3.0 ★ Caregivers 16 ratings 4.1 ★ Not a Parent or Caregiver 190 ratings 3.8 ★ Parents/Guardians,,127
+OhioHealth,Parent or family caregiver,★ Caregivers,3.0,16
+OhioHealth,Parent or family caregiver,★ Not a Parent or Caregiver,4.1,190
+OhioHealth,Parent or family caregiver,★ Parents/Guardians,3.8,127
+OhioHealth,Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 3.9 ★ Non-Veterans 343 ratings 3.4 ★ Veterans,,15
+OhioHealth,Veteran status,★ Non-Veterans,3.9,343
+OhioHealth,Veteran status,★ Veterans,3.4,15
+"Specialized Education Services, Inc.",Race / Ethnicity,★ Black or African American,2.8,7
+"Specialized Education Services, Inc.",Race / Ethnicity,★ Hispanic or Latinx,4.3,5
+"Specialized Education Services, Inc.",Race / Ethnicity,★ White,3.2,26
+"Specialized Education Services, Inc.",Race / Ethnicity,Asian,,0
+"Specialized Education Services, Inc.",Gender,★ Men,2.4,12
+"Specialized Education Services, Inc.",Gender,★ Women,3.3,26
+"Specialized Education Services, Inc.",Sexual orientation,★ Heterosexual,2.9,28
+"Specialized Education Services, Inc.",Sexual orientation,★ LGBTQ+,3.1,5
+"Specialized Education Services, Inc.",Disability,★ People without disabilities,2.9,31
+"Specialized Education Services, Inc.",Disability,★ People with disabilities,2.6,7
+"Specialized Education Services, Inc.",Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 2.8 ★ Not a Parent or Caregiver 21 ratings 3.3 ★ Parents/Guardians 8 ratings - ★ Caregivers,,0
+"Specialized Education Services, Inc.",Parent or family caregiver,★ Not a Parent or Caregiver,2.8,21
+"Specialized Education Services, Inc.",Parent or family caregiver,★ Parents/Guardians,3.3,8
+"Specialized Education Services, Inc.",Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 2.9 ★ Non-Veterans 38 ratings - ★ Veterans,,0
+"Specialized Education Services, Inc.",Veteran status,★ Non-Veterans,2.9,38
+Weber School District,Race / Ethnicity,★ White,3.6,12
+Weber School District,Race / Ethnicity,Asian,,0
+Weber School District,Race / Ethnicity,Black or African American,,0
+Weber School District,Race / Ethnicity,Hispanic or Latinx,,0
+Weber School District,Gender,★ Women,3.5,8
+Weber School District,Gender,Men,,0
+Weber School District,Sexual orientation,★ Heterosexual,3.6,9
+Weber School District,Sexual orientation,LGBTQ+,,0
+Weber School District,Disability,★ People without disabilities,3.8,11
+Weber School District,Disability,People with disabilities,,0
+Weber School District,Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 3.6 ★ Not a Parent or Caregiver 9 ratings - ★ Caregivers No ratings - ★ Parents/Guardians,,0
+Weber School District,Parent or family caregiver,★ Not a Parent or Caregiver,3.6,9
+Weber School District,Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 3.9 ★ Non-Veterans 13 ratings - ★ Veterans,,0
+Weber School District,Veteran status,★ Non-Veterans,3.9,13
+Harrison School District 2,Race / Ethnicity,★ White,2.4,8
+Harrison School District 2,Race / Ethnicity,Asian,,0
+Harrison School District 2,Race / Ethnicity,Black or African American,,0
+Harrison School District 2,Race / Ethnicity,Hispanic or Latinx,,0
+Harrison School District 2,Gender,★ Women,2.5,10
+Harrison School District 2,Gender,Men,,0
+Harrison School District 2,Sexual orientation,★ Heterosexual,2.6,10
+Harrison School District 2,Sexual orientation,LGBTQ+,,0
+Harrison School District 2,Disability,★ People without disabilities,2.4,9
+Harrison School District 2,Disability,People with disabilities,,0
+Harrison School District 2,Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 2.4 ★ Not a Parent or Caregiver 8 ratings - ★ Caregivers No ratings - ★ Parents/Guardians,,0
+Harrison School District 2,Parent or family caregiver,★ Not a Parent or Caregiver,2.4,8
+Harrison School District 2,Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 2.5 ★ Non-Veterans 12 ratings - ★ Veterans,,0
+Harrison School District 2,Veteran status,★ Non-Veterans,2.5,12
+Widefield School District 3,Race / Ethnicity,★ Hispanic or Latinx,4.0,5
+Widefield School District 3,Race / Ethnicity,★ White,3.5,9
+Widefield School District 3,Race / Ethnicity,Asian,,0
+Widefield School District 3,Race / Ethnicity,Black or African American,,0
+Widefield School District 3,Gender,★ Women,3.5,12
+Widefield School District 3,Gender,Men,,0
+Widefield School District 3,Sexual orientation,★ Heterosexual,3.6,9
+Widefield School District 3,Sexual orientation,LGBTQ+,,0
+Widefield School District 3,Disability,★ People without disabilities,3.4,13
+Widefield School District 3,Disability,People with disabilities,,0
+Widefield School District 3,Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 3.5 ★ Not a Parent or Caregiver 7 ratings 3.3 ★ Parents/Guardians 7 ratings - ★ Caregivers,,0
+Widefield School District 3,Parent or family caregiver,★ Not a Parent or Caregiver,3.5,7
+Widefield School District 3,Parent or family caregiver,★ Parents/Guardians,3.3,7
+Widefield School District 3,Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 3.4 ★ Non-Veterans 14 ratings - ★ Veterans,,0
+Widefield School District 3,Veteran status,★ Non-Veterans,3.4,14
+St Vrain Valley School District,Race / Ethnicity,★ White,4.0,26
+St Vrain Valley School District,Race / Ethnicity,Asian,,0
+St Vrain Valley School District,Race / Ethnicity,Black or African American,,0
+St Vrain Valley School District,Race / Ethnicity,Hispanic or Latinx,,0
+St Vrain Valley School District,Gender,★ Women,4.3,22
+St Vrain Valley School District,Gender,Men,,0
+St Vrain Valley School District,Sexual orientation,★ Heterosexual,3.7,23
+St Vrain Valley School District,Sexual orientation,LGBTQ+,,0
+St Vrain Valley School District,Disability,★ People without disabilities,3.9,24
+St Vrain Valley School District,Disability,People with disabilities,,0
+St Vrain Valley School District,Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 3.8 ★ Not a Parent or Caregiver 16 ratings 3.9 ★ Parents/Guardians 12 ratings - ★ Caregivers,,0
+St Vrain Valley School District,Parent or family caregiver,★ Not a Parent or Caregiver,3.8,16
+St Vrain Valley School District,Parent or family caregiver,★ Parents/Guardians,3.9,12
+St Vrain Valley School District,Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 3.7 ★ Non-Veterans 27 ratings - ★ Veterans,,0
+St Vrain Valley School District,Veteran status,★ Non-Veterans,3.7,27
+Pioneer Technology & Arts Academy,Race / Ethnicity,★ White,4.0,6
+Pioneer Technology & Arts Academy,Race / Ethnicity,Asian,,0
+Pioneer Technology & Arts Academy,Race / Ethnicity,Black or African American,,0
+Pioneer Technology & Arts Academy,Race / Ethnicity,Hispanic or Latinx,,0
+Pioneer Technology & Arts Academy,Gender,★ Women,3.6,7
+Pioneer Technology & Arts Academy,Gender,Men,,0
+Pioneer Technology & Arts Academy,Sexual orientation,★ Heterosexual,3.1,9
+Pioneer Technology & Arts Academy,Sexual orientation,LGBTQ+,,0
+Pioneer Technology & Arts Academy,Disability,★ People without disabilities,3.5,6
+Pioneer Technology & Arts Academy,Disability,People with disabilities,,0
+Pioneer Technology & Arts Academy,Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 4.0 ★ Not a Parent or Caregiver 5 ratings - ★ Caregivers No ratings - ★ Parents/Guardians,,0
+Pioneer Technology & Arts Academy,Parent or family caregiver,★ Not a Parent or Caregiver,4.0,5
+Pioneer Technology & Arts Academy,Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 3.6 ★ Non-Veterans 7 ratings - ★ Veterans,,0
+Pioneer Technology & Arts Academy,Veteran status,★ Non-Veterans,3.6,7
+Mesa Public Schools,Race / Ethnicity,★ Asian,3.2,5
+Mesa Public Schools,Race / Ethnicity,★ Hispanic or Latinx,3.9,10
+Mesa Public Schools,Race / Ethnicity,★ White,3.7,64
+Mesa Public Schools,Race / Ethnicity,Black or African American,,0
+Mesa Public Schools,Gender,★ Men,3.9,18
+Mesa Public Schools,Gender,★ Women,3.5,66
+Mesa Public Schools,Sexual orientation,★ Heterosexual,3.6,65
+Mesa Public Schools,Sexual orientation,★ LGBTQ+,3.3,15
+Mesa Public Schools,Disability,★ People without disabilities,3.6,68
+Mesa Public Schools,Disability,★ People with disabilities,3.5,13
+Mesa Public Schools,Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 3.6 ★ Not a Parent or Caregiver 52 ratings 3.5 ★ Parents/Guardians 26 ratings - ★ Caregivers,,0
+Mesa Public Schools,Parent or family caregiver,★ Not a Parent or Caregiver,3.6,52
+Mesa Public Schools,Parent or family caregiver,★ Parents/Guardians,3.5,26
+Mesa Public Schools,Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 3.6 ★ Non-Veterans 79 ratings - ★ Veterans,,0
+Mesa Public Schools,Veteran status,★ Non-Veterans,3.6,79
+College Achieve Public Schools,Gender,★ Women,2.9,6
+College Achieve Public Schools,Gender,Men,,0
+College Achieve Public Schools,Sexual orientation,★ Heterosexual,3.4,8
+College Achieve Public Schools,Sexual orientation,LGBTQ+,,0
+College Achieve Public Schools,Disability,★ People without disabilities,3.3,8
+College Achieve Public Schools,Disability,People with disabilities,,0
+College Achieve Public Schools,Parent or family caregiver,★ Not a Parent or Caregiver,2.9,6
+College Achieve Public Schools,Veteran status,Scroll to left Gender Sexual orientation Disability Parent or family caregiver Veteran status 3.1 ★ Non-Veterans 7 ratings - ★ Veterans,,0
+College Achieve Public Schools,Veteran status,★ Non-Veterans,3.1,7
+LearnWell,Race / Ethnicity,★ White,3.1,22
+LearnWell,Race / Ethnicity,Asian,,0
+LearnWell,Race / Ethnicity,Black or African American,,0
+LearnWell,Race / Ethnicity,Hispanic or Latinx,,0
+LearnWell,Gender,★ Women,2.6,18
+LearnWell,Gender,Men,,0
+LearnWell,Sexual orientation,★ Heterosexual,3.2,20
+LearnWell,Sexual orientation,★ LGBTQ+,2.5,5
+LearnWell,Disability,★ People without disabilities,3.2,12
+LearnWell,Disability,★ People with disabilities,3.3,9
+LearnWell,Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 2.7 ★ Not a Parent or Caregiver 12 ratings 3.9 ★ Parents/Guardians 10 ratings - ★ Caregivers,,0
+LearnWell,Parent or family caregiver,★ Not a Parent or Caregiver,2.7,12
+LearnWell,Parent or family caregiver,★ Parents/Guardians,3.9,10
+LearnWell,Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 3.0 ★ Non-Veterans 24 ratings - ★ Veterans,,0
+LearnWell,Veteran status,★ Non-Veterans,3.0,24
+Kettering Health,Race / Ethnicity,★ Asian,4.0,12
+Kettering Health,Race / Ethnicity,★ Black or African American,3.7,18
+Kettering Health,Race / Ethnicity,★ Hispanic or Latinx,2.5,6
+Kettering Health,Race / Ethnicity,★ White,3.6,124
+Kettering Health,Gender,★ Men,4.2,31
+Kettering Health,Gender,★ Transgender and/or Non-Binary,3.5,5
+Kettering Health,Gender,★ Women,3.4,117
+Kettering Health,Sexual orientation,★ Heterosexual,3.5,145
+Kettering Health,Sexual orientation,★ LGBTQ+,3.7,13
+Kettering Health,Disability,★ People without disabilities,3.6,148
+Kettering Health,Disability,★ People with disabilities,3.1,15
+Kettering Health,Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 3.4 ★ Not a Parent or Caregiver 80 ratings 3.8 ★ Parents/Guardians 76 ratings - ★ Caregivers,,0
+Kettering Health,Parent or family caregiver,★ Not a Parent or Caregiver,3.4,80
+Kettering Health,Parent or family caregiver,★ Parents/Guardians,3.8,76
+Kettering Health,Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 3.6 ★ Non-Veterans 146 ratings 4.2 ★ Veterans,,13
+Kettering Health,Veteran status,★ Non-Veterans,3.6,146
+Kettering Health,Veteran status,★ Veterans,4.2,13
+Fairview Health Services,Race / Ethnicity,★ Asian,3.7,34
+Fairview Health Services,Race / Ethnicity,★ Black or African American,3.4,45
+Fairview Health Services,Race / Ethnicity,★ Hispanic or Latinx,3.8,17
+Fairview Health Services,Race / Ethnicity,★ Indigenous American or Alaska Native,2.7,5
+Fairview Health Services,Gender,★ Men,3.3,87
+Fairview Health Services,Gender,★ Transgender and/or Non-Binary,3.1,10
+Fairview Health Services,Gender,★ Women,3.3,296
+Fairview Health Services,Sexual orientation,★ Heterosexual,3.3,307
+Fairview Health Services,Sexual orientation,★ LGBTQ+,2.9,47
+Fairview Health Services,Disability,★ People without disabilities,3.3,317
+Fairview Health Services,Disability,★ People with disabilities,2.5,56
+Fairview Health Services,Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 3.7 ★ Caregivers 18 ratings 3.1 ★ Not a Parent or Caregiver 204 ratings 3.3 ★ Parents/Guardians,,137
+Fairview Health Services,Parent or family caregiver,★ Caregivers,3.7,18
+Fairview Health Services,Parent or family caregiver,★ Not a Parent or Caregiver,3.1,204
+Fairview Health Services,Parent or family caregiver,★ Parents/Guardians,3.3,137
+Fairview Health Services,Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 3.2 ★ Non-Veterans 363 ratings 3.8 ★ Veterans,,13
+Fairview Health Services,Veteran status,★ Non-Veterans,3.2,363
+Fairview Health Services,Veteran status,★ Veterans,3.8,13
+Avera Health,Race / Ethnicity,★ Asian,5.0,5
+Avera Health,Race / Ethnicity,★ Black or African American,2.6,10
+Avera Health,Race / Ethnicity,★ Hispanic or Latinx,4.7,8
+Avera Health,Race / Ethnicity,★ White,3.9,88
+Avera Health,Gender,★ Men,4.0,34
+Avera Health,Gender,★ Women,3.7,75
+Avera Health,Sexual orientation,★ Heterosexual,3.8,84
+Avera Health,Sexual orientation,★ LGBTQ+,4.0,14
+Avera Health,Disability,★ People without disabilities,3.9,91
+Avera Health,Disability,★ People with disabilities,3.6,14
+Avera Health,Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 3.7 ★ Not a Parent or Caregiver 54 ratings 4.3 ★ Parents/Guardians 48 ratings - ★ Caregivers,,0
+Avera Health,Parent or family caregiver,★ Not a Parent or Caregiver,3.7,54
+Avera Health,Parent or family caregiver,★ Parents/Guardians,4.3,48
+Avera Health,Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 4.0 ★ Non-Veterans 105 ratings - ★ Veterans,,0
+Avera Health,Veteran status,★ Non-Veterans,4.0,105
+BJC HealthCare,Race / Ethnicity,★ Asian,3.7,20
+BJC HealthCare,Race / Ethnicity,★ Black or African American,3.4,79
+BJC HealthCare,Race / Ethnicity,★ Hispanic or Latinx,2.5,12
+BJC HealthCare,Race / Ethnicity,★ White,3.3,228
+BJC HealthCare,Gender,★ Men,4.0,92
+BJC HealthCare,Gender,★ Transgender and/or Non-Binary,3.0,5
+BJC HealthCare,Gender,★ Women,3.2,247
+BJC HealthCare,Sexual orientation,★ Heterosexual,3.5,272
+BJC HealthCare,Sexual orientation,★ LGBTQ+,3.3,38
+BJC HealthCare,Disability,★ People without disabilities,3.5,286
+BJC HealthCare,Disability,★ People with disabilities,3.4,24
+BJC HealthCare,Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 3.6 ★ Caregivers 12 ratings 3.4 ★ Not a Parent or Caregiver 181 ratings 3.3 ★ Parents/Guardians,,115
+BJC HealthCare,Parent or family caregiver,★ Caregivers,3.6,12
+BJC HealthCare,Parent or family caregiver,★ Not a Parent or Caregiver,3.4,181
+BJC HealthCare,Parent or family caregiver,★ Parents/Guardians,3.3,115
+BJC HealthCare,Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 3.5 ★ Non-Veterans 310 ratings 2.5 ★ Veterans,,20
+BJC HealthCare,Veteran status,★ Non-Veterans,3.5,310
+BJC HealthCare,Veteran status,★ Veterans,2.5,20
+Indiana University Health,Race / Ethnicity,★ Asian,4.0,30
+Indiana University Health,Race / Ethnicity,★ Black or African American,3.6,99
+Indiana University Health,Race / Ethnicity,★ Hispanic or Latinx,3.3,30
+Indiana University Health,Race / Ethnicity,★ Indigenous American or Alaska Native,4.0,7
+Indiana University Health,Gender,★ Men,3.4,141
+Indiana University Health,Gender,★ Transgender and/or Non-Binary,3.4,9
+Indiana University Health,Gender,★ Women,3.4,463
+Indiana University Health,Sexual orientation,★ Heterosexual,3.5,497
+Indiana University Health,Sexual orientation,★ LGBTQ+,3.0,80
+Indiana University Health,Disability,★ People without disabilities,3.5,554
+Indiana University Health,Disability,★ People with disabilities,2.9,48
+Indiana University Health,Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 3.0 ★ Caregivers 31 ratings 3.4 ★ Not a Parent or Caregiver 307 ratings 3.4 ★ Parents/Guardians,,237
+Indiana University Health,Parent or family caregiver,★ Caregivers,3.0,31
+Indiana University Health,Parent or family caregiver,★ Not a Parent or Caregiver,3.4,307
+Indiana University Health,Parent or family caregiver,★ Parents/Guardians,3.4,237
+Indiana University Health,Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 3.4 ★ Non-Veterans 580 ratings 3.7 ★ Veterans,,22
+Indiana University Health,Veteran status,★ Non-Veterans,3.4,580
+Indiana University Health,Veteran status,★ Veterans,3.7,22
+SSM Health,Race / Ethnicity,★ Asian,3.9,33
+SSM Health,Race / Ethnicity,★ Black or African American,3.0,75
+SSM Health,Race / Ethnicity,★ Hispanic or Latinx,3.6,26
+SSM Health,Race / Ethnicity,★ Indigenous American or Alaska Native,3.3,14
+SSM Health,Gender,★ Men,3.5,111
+SSM Health,Gender,★ Transgender and/or Non-Binary,2.0,6
+SSM Health,Gender,★ Women,3.3,439
+SSM Health,Sexual orientation,★ Heterosexual,3.4,468
+SSM Health,Sexual orientation,★ LGBTQ+,3.3,55
+SSM Health,Disability,★ People without disabilities,3.4,471
+SSM Health,Disability,★ People with disabilities,2.9,72
+SSM Health,Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 3.2 ★ Caregivers 25 ratings 3.2 ★ Not a Parent or Caregiver 280 ratings 3.4 ★ Parents/Guardians,,221
+SSM Health,Parent or family caregiver,★ Caregivers,3.2,25
+SSM Health,Parent or family caregiver,★ Not a Parent or Caregiver,3.2,280
+SSM Health,Parent or family caregiver,★ Parents/Guardians,3.4,221
+SSM Health,Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 3.3 ★ Non-Veterans 527 ratings 3.5 ★ Veterans,,27
+SSM Health,Veteran status,★ Non-Veterans,3.3,527
+SSM Health,Veteran status,★ Veterans,3.5,27
+CHRISTUS Health,Race / Ethnicity,★ Asian,3.6,57
+CHRISTUS Health,Race / Ethnicity,★ Black or African American,3.9,110
+CHRISTUS Health,Race / Ethnicity,★ Hispanic or Latinx,3.6,103
+CHRISTUS Health,Race / Ethnicity,★ Indigenous American or Alaska Native,2.3,14
+CHRISTUS Health,Gender,★ Men,4.0,159
+CHRISTUS Health,Gender,★ Transgender and/or Non-Binary,3.4,7
+CHRISTUS Health,Gender,★ Women,3.6,401
+CHRISTUS Health,Sexual orientation,★ Heterosexual,3.7,474
+CHRISTUS Health,Sexual orientation,★ LGBTQ+,3.1,33
+CHRISTUS Health,Disability,★ People without disabilities,3.6,485
+CHRISTUS Health,Disability,★ People with disabilities,3.9,44
+CHRISTUS Health,Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 2.9 ★ Caregivers 24 ratings 3.8 ★ Not a Parent or Caregiver 290 ratings 3.6 ★ Parents/Guardians,,199
+CHRISTUS Health,Parent or family caregiver,★ Caregivers,2.9,24
+CHRISTUS Health,Parent or family caregiver,★ Not a Parent or Caregiver,3.8,290
+CHRISTUS Health,Parent or family caregiver,★ Parents/Guardians,3.6,199
+CHRISTUS Health,Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 3.6 ★ Non-Veterans 494 ratings 3.8 ★ Veterans,,47
+CHRISTUS Health,Veteran status,★ Non-Veterans,3.6,494
+CHRISTUS Health,Veteran status,★ Veterans,3.8,47
+Quality Carriers,Race / Ethnicity,★ Asian,3.8,5
+Quality Carriers,Race / Ethnicity,★ Black or African American,3.8,10
+Quality Carriers,Race / Ethnicity,★ Hispanic or Latinx,3.7,8
+Quality Carriers,Race / Ethnicity,★ White,2.8,21
+Quality Carriers,Gender,★ Men,3.4,30
+Quality Carriers,Gender,★ Women,3.6,15
+Quality Carriers,Sexual orientation,★ Heterosexual,3.6,43
+Quality Carriers,Sexual orientation,LGBTQ+,,0
+Quality Carriers,Disability,★ People without disabilities,3.6,41
+Quality Carriers,Disability,★ People with disabilities,2.8,7
+Quality Carriers,Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 3.4 ★ Not a Parent or Caregiver 21 ratings 3.8 ★ Parents/Guardians 21 ratings - ★ Caregivers,,0
+Quality Carriers,Parent or family caregiver,★ Not a Parent or Caregiver,3.4,21
+Quality Carriers,Parent or family caregiver,★ Parents/Guardians,3.8,21
+Quality Carriers,Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 3.6 ★ Non-Veterans 41 ratings 3.3 ★ Veterans,,6
+Quality Carriers,Veteran status,★ Non-Veterans,3.6,41
+Quality Carriers,Veteran status,★ Veterans,3.3,6
+U.S. Xpress,Race / Ethnicity,★ Asian,3.7,12
+U.S. Xpress,Race / Ethnicity,★ Black or African American,2.9,39
+U.S. Xpress,Race / Ethnicity,★ Hispanic or Latinx,3.3,15
+U.S. Xpress,Race / Ethnicity,★ Indigenous American or Alaska Native,1.6,5
+U.S. Xpress,Gender,★ Men,3.1,137
+U.S. Xpress,Gender,★ Women,3.0,58
+U.S. Xpress,Sexual orientation,★ Heterosexual,3.2,159
+U.S. Xpress,Sexual orientation,★ LGBTQ+,2.1,16
+U.S. Xpress,Disability,★ People without disabilities,3.1,162
+U.S. Xpress,Disability,★ People with disabilities,2.8,22
+U.S. Xpress,Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 2.6 ★ Caregivers 7 ratings 3.2 ★ Not a Parent or Caregiver 113 ratings 3.1 ★ Parents/Guardians,,61
+U.S. Xpress,Parent or family caregiver,★ Caregivers,2.6,7
+U.S. Xpress,Parent or family caregiver,★ Not a Parent or Caregiver,3.2,113
+U.S. Xpress,Parent or family caregiver,★ Parents/Guardians,3.1,61
+U.S. Xpress,Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 3.1 ★ Non-Veterans 154 ratings 2.3 ★ Veterans,,36
+U.S. Xpress,Veteran status,★ Non-Veterans,3.1,154
+U.S. Xpress,Veteran status,★ Veterans,2.3,36
+State of Vermont,Race / Ethnicity,★ White,3.8,50
+State of Vermont,Race / Ethnicity,Asian,,0
+State of Vermont,Race / Ethnicity,Black or African American,,0
+State of Vermont,Race / Ethnicity,Hispanic or Latinx,,0
+State of Vermont,Gender,★ Men,4.2,19
+State of Vermont,Gender,★ Women,3.6,35
+State of Vermont,Sexual orientation,★ Heterosexual,3.8,44
+State of Vermont,Sexual orientation,★ LGBTQ+,2.5,7
+State of Vermont,Disability,★ People without disabilities,3.7,39
+State of Vermont,Disability,★ People with disabilities,3.5,13
+State of Vermont,Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 3.7 ★ Not a Parent or Caregiver 27 ratings 3.5 ★ Parents/Guardians 24 ratings - ★ Caregivers,,0
+State of Vermont,Parent or family caregiver,★ Not a Parent or Caregiver,3.7,27
+State of Vermont,Parent or family caregiver,★ Parents/Guardians,3.5,24
+State of Vermont,Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 3.7 ★ Non-Veterans 47 ratings 2.7 ★ Veterans,,5
+State of Vermont,Veteran status,★ Non-Veterans,3.7,47
+State of Vermont,Veteran status,★ Veterans,2.7,5
+State of Arizona,Race / Ethnicity,★ Asian,3.5,6
+State of Arizona,Race / Ethnicity,★ Black or African American,2.1,19
+State of Arizona,Race / Ethnicity,★ Hispanic or Latinx,4.4,21
+State of Arizona,Race / Ethnicity,★ Indigenous American or Alaska Native,3.3,8
+State of Arizona,Gender,★ Men,3.3,33
+State of Arizona,Gender,★ Women,3.5,82
+State of Arizona,Sexual orientation,★ Heterosexual,3.3,112
+State of Arizona,Sexual orientation,★ LGBTQ+,3.4,11
+State of Arizona,Disability,★ People without disabilities,3.1,102
+State of Arizona,Disability,★ People with disabilities,4.1,19
+State of Arizona,Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 3.6 ★ Caregivers 6 ratings 3.0 ★ Not a Parent or Caregiver 71 ratings 3.4 ★ Parents/Guardians,,37
+State of Arizona,Parent or family caregiver,★ Caregivers,3.6,6
+State of Arizona,Parent or family caregiver,★ Not a Parent or Caregiver,3.0,71
+State of Arizona,Parent or family caregiver,★ Parents/Guardians,3.4,37
+State of Arizona,Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 3.1 ★ Non-Veterans 109 ratings 3.8 ★ Veterans,,19
+State of Arizona,Veteran status,★ Non-Veterans,3.1,109
+State of Arizona,Veteran status,★ Veterans,3.8,19
+Walmart,Race / Ethnicity,★ Indigenous American or Alaska Native,3.3,902
+Walmart,Parent or family caregiver,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status Scroll to right 3.3 ★ Caregivers 810 ratings 3.3 ★ Not a Parent or Caregiver 18K ratings 3.2 ★ Parents/Guardians,,6
+Walmart,Parent or family caregiver,★ Caregivers,3.3,810
+Walmart,Veteran status,Scroll to left Race / Ethnicity Gender Sexual orientation Disability Parent or family caregiver Veteran status 3.3 ★ Non-Veterans 21K ratings 3.4 ★ Veterans,,1

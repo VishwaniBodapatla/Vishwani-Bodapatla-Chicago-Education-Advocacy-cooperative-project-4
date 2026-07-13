@@ -1,0 +1,102 @@
+company_name,page,job_title,pay_range,min,max,per,num_salaries
+HealthTrust Workforce Solutions,1,Registered Nurse,$76K - $95K /yr,76000,95000,yr,111
+HealthTrust Workforce Solutions,1,RN,$78K - $101K /yr,78000,101000,yr,4
+HealthTrust Workforce Solutions,1,Registered Nurse (RN),$74K - $94K /yr,74000,94000,yr,1
+HealthTrust Workforce Solutions,1,"Registered Nurse, BSN",$79K - $100K /yr,79000,100000,yr,60
+HealthTrust Workforce Solutions,1,"ER RN, BSN",$79K - $105K /yr,79000,105000,yr,1
+HealthTrust Workforce Solutions,1,Certified Nursing Assistant CNA,$39K - $51K /yr,39000,51000,yr,5
+Intermountain Health,1,Nurse,$67K - $94K /yr,67000,94000,yr,20
+Intermountain Health,1,ER Nurse,$78K - $104K /yr,78000,104000,yr,1
+Intermountain Health,1,Registered Nurse,$80K - $98K /yr,80000,98000,yr,689
+Intermountain Health,1,RN,$81K - $107K /yr,81000,107000,yr,12
+Intermountain Health,1,ER RN,$82K - $112K /yr,82000,112000,yr,6
+Intermountain Health,1,RN NURSE,$70K - $93K /yr,70000,93000,yr,1
+Intermountain Health,1,Registered Nurse (RN),$76K - $96K /yr,76000,96000,yr,1
+Intermountain Health,1,Registred Nurse(RN),$76K - $99K /yr,76000,99000,yr,1
+Intermountain Health,1,Registered Nurses,$81K - $101K /yr,81000,101000,yr,1
+Intermountain Health,1,"Registered Nurse, BSN",$81K - $98K /yr,81000,98000,yr,372
+Intermountain Health,1,"RN, Bsn",$76K - $115K /yr,76000,115000,yr,19
+Intermountain Health,1,RN BSN,$80K - $104K /yr,80000,104000,yr,12
+Intermountain Health,1,Registered Nurse (BSN - RN),$85K - $105K /yr,85000,105000,yr,2
+Intermountain Health,1,RN-BSN,$94K - $140K /yr,94000,140000,yr,1
+Intermountain Health,1,Registered Nurse BSN,$73K - $90K /yr,73000,90000,yr,1
+Intermountain Health,1,Certified Nursing Assistant CNA,$39K - $50K /yr,39000,50000,yr,80
+Intermountain Health,1,"Certified Nursing Assistant CNA,",$39K - $49K /yr,39000,49000,yr,1
+Intermountain Health,1,Nurse Practitioner,$129K - $173K /yr,129000,173000,yr,65
+Intermountain Health,1,Nurse Practitioners,$110K - $145K /yr,110000,145000,yr,1
+Intermountain Health,1,Er Nurse Practitioner,$125K - $169K /yr,125000,169000,yr,1
+West Covina Unified School District,1,Teacher,$57K - $85K /yr,57000,85000,yr,14
+West Covina Unified School District,1,Substitute Teacher,$39K - $58K /yr,39000,58000,yr,6
+Zeta Charter Schools,1,Teacher,$59K - $79K /yr,59000,79000,yr,71
+Uncommon Schools,1,English Teacher,$59K - $79K /yr,59000,79000,yr,52
+Uncommon Schools,1,Teacher of English,$69K - $98K /yr,69000,98000,yr,1
+Uncommon Schools,1,Special Education Teacher,$66K - $92K /yr,66000,92000,yr,49
+Uncommon Schools,1,Teacher,$54K - $74K /yr,54000,74000,yr,18
+Learn It Systems,1,Teacher,$49K - $76K /yr,49000,76000,yr,17
+Learn It Systems,1,Special Education Teacher,$57K - $83K /yr,57000,83000,yr,1
+Rose Management Group,1,Teacher,$46K - $69K /yr,46000,69000,yr,7
+Chicago Public Schools,1,Preschool Teacher,$40K - $58K /yr,40000,58000,yr,3
+Chicago Public Schools,1,Special Education Teacher,$65K - $89K /yr,65000,89000,yr,346
+Chicago Public Schools,1,Teacher,$59K - $84K /yr,59000,84000,yr,6
+Fairfax County Public Schools,1,Substitute Teacher,$38K - $57K /yr,38000,57000,yr,256
+Fairfax County Public Schools,1,Teacher Substitute,$38K - $55K /yr,38000,55000,yr,1
+Fairfax County Public Schools,1,Special Education Teacher,$65K - $92K /yr,65000,92000,yr,150
+Fairfax County Public Schools,1,Teacher/Special Education,$46K - $69K /yr,46000,69000,yr,1
+Tenet Healthcare,1,Nurse,$76K - $109K /yr,76000,109000,yr,7
+Tenet Healthcare,1,ER Nurse,$82K - $109K /yr,82000,109000,yr,1
+Tenet Healthcare,1,Registered Nurse,$86K - $109K /yr,86000,109000,yr,340
+Tenet Healthcare,1,RN,$83K - $110K /yr,83000,110000,yr,6
+Tenet Healthcare,1,Nurse RN,$79K - $104K /yr,79000,104000,yr,1
+Tenet Healthcare,1,"RN, ER",$74K - $137K /yr,74000,137000,yr,1
+Tenet Healthcare,1,RN I,$82K - $115K /yr,82000,115000,yr,1
+Tenet Healthcare,1,ER RN,$89K - $119K /yr,89000,119000,yr,1
+Tenet Healthcare,1,Certified Nursing Assistant CNA,$38K - $51K /yr,38000,51000,yr,13
+Tenet Healthcare,1,Nurse Practitioner,$130K - $166K /yr,130000,166000,yr,24
+First Student,1,Bus Driver,$42K - $57K /yr,42000,57000,yr,720
+First Student,1,School Bus Driver,$44K - $60K /yr,44000,60000,yr,721
+First Student,1,Bus Driver/School Bus Driver,$39K - $53K /yr,39000,53000,yr,23
+First Student,1,School Bus Drivers,$40K - $57K /yr,40000,57000,yr,2
+STA,1,School Bus Driver,$41K - $59K /yr,41000,59000,yr,93
+STA,1,Bus Driver/School Bus Driver,$38K - $56K /yr,38000,56000,yr,2
+STA,1,Bus Driver,$39K - $52K /yr,39000,52000,yr,5
+Summit School Services,1,Bus Driver,$39K - $54K /yr,39000,54000,yr,7
+Keolis,1,Driver,$43K - $65K /yr,43000,65000,yr,7
+Keolis,1,Bus Driver,$44K - $63K /yr,44000,63000,yr,12
+Keolis,1,Transit Bus Driver,$45K - $63K /yr,45000,63000,yr,4
+Washoe County Schools,1,School Bus Driver,$38K - $54K /yr,38000,54000,yr,4
+Tahoe Transportation District,1,Bus Driver,$42K - $57K /yr,42000,57000,yr,720
+Northwell Health,1,Nurse,$83K - $116K /yr,83000,116000,yr,21
+Northwell Health,1,ER Nurse,$83K - $110K /yr,83000,110000,yr,1
+Northwell Health,1,ER Registered Nurse,$87K - $112K /yr,87000,112000,yr,1
+Northwell Health,1,Registered Nurse,$86K - $111K /yr,86000,111000,yr,231
+Northwell Health,1,RN,$92K - $120K /yr,92000,120000,yr,7
+Northwell Health,1,Registered Nurse (RN),$83K - $108K /yr,83000,108000,yr,1
+Northwell Health,1,ER RN,$84K - $113K /yr,84000,113000,yr,1
+OhioHealth,1,Nurse,$66K - $95K /yr,66000,95000,yr,18
+OhioHealth,1,ER Nurse,$79K - $102K /yr,79000,102000,yr,2
+OhioHealth,1,Nurse Practitioner,$129K - $167K /yr,129000,167000,yr,38
+"Specialized Education Services, Inc.",1,Teacher,$44K - $69K /yr,44000,69000,yr,34
+Weber School District,1,Teacher,$55K - $77K /yr,55000,77000,yr,44
+Widefield School District 3,1,Teacher,$59K - $85K /yr,59000,85000,yr,21
+St Vrain Valley School District,1,Teacher,$58K - $84K /yr,58000,84000,yr,63
+Pioneer Technology & Arts Academy,1,Teacher,$41K - $61K /yr,41000,61000,yr,20
+Mesa Public Schools,1,Teacher,$53K - $70K /yr,53000,70000,yr,173
+College Achieve Public Schools,1,Teacher,$49K - $68K /yr,49000,68000,yr,54
+LearnWell,1,Teacher,$50K - $75K /yr,50000,75000,yr,94
+Kettering Health,1,Registered Nurse,$77K - $97K /yr,77000,97000,yr,211
+Kettering Health,1,RN,$82K - $106K /yr,82000,106000,yr,2
+Kettering Health,1,ER RN,$83K - $111K /yr,83000,111000,yr,1
+Kettering Health,1,Nurse Practitioner,$119K - $156K /yr,119000,156000,yr,19
+Fairview Health Services,1,Nurse,$76K - $104K /yr,76000,104000,yr,9
+Fairview Health Services,1,ER Nurse,$81K - $108K /yr,81000,108000,yr,1
+Avera Health,1,Registered Nurse,$77K - $94K /yr,77000,94000,yr,107
+Avera Health,1,RN,$80K - $99K /yr,80000,99000,yr,1
+BJC HealthCare,1,Nurse Practitioner,$114K - $145K /yr,114000,145000,yr,42
+Indiana University Health,1,Nurse Practitioner,$120K - $157K /yr,120000,157000,yr,58
+SSM Health,1,Nurse Practitioner,$114K - $146K /yr,114000,146000,yr,44
+Quality Carriers,1,Driver,$44K - $63K /yr,44000,63000,yr,14
+U.S. Xpress,1,Driver,$38K - $60K /yr,38000,60000,yr,88
+State of Vermont,1,Correctional Officer,$52K - $69K /yr,52000,69000,yr,11
+State of Vermont,1,Corrections Officer,$54K - $72K /yr,54000,72000,yr,2
+State of Vermont,1,Correctional Officer I,$49K - $64K /yr,49000,64000,yr,1
+State of Arizona,1,Correctional Officer,$53K - $70K /yr,53000,70000,yr,11
